@@ -12,7 +12,7 @@ I am Dingqing Yang(Ch), a Ph.D. candidate in Electrical and Computer Engineering
 
 Education
 ======
-* B.A.Sc. in ECE, UBC, 2018
+* B.A.Sc. in ECE with Distinction, UBC, 2018
 * Ph.D. in ECE, UBC, 2024 (expected)
 
 Publications
