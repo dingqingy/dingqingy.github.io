@@ -22,7 +22,7 @@ Publications
   
 Teaching
 ======
-I haved TAed the following courses at UBC in the past.
+I was a Teaching Assistant for the following courses at UBC in the past.
 - CPEN 211 - Computing Systems I
 - CPEN 212 - Computing Systems II
 - CPEN 291 - Computer Engineering Design Studio I
