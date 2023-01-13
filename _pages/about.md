@@ -34,5 +34,5 @@ Awards
 ======
 - Four Year Doctoral Fellowship (4YF) [[link](https://www.grad.ubc.ca/awards/four-year-doctoral-fellowship-4yf)]
 - Graduate Support Initiative (GSI) Awards [[link](https://www.grad.ubc.ca/awards/graduate-support-initiative-gsi-awards)]
-- Faculty of Applied Science INTERNATIONAL Student Scholarship [[link](https://students.ubc.ca/enrolment/finances/award-search/vancouver/faculty-applied-science/general/5379?destination=enrolment/finances/award-search/result%3Fcampus%3DVancouver%26faculty%3DAPSC%26dept%3DAll%26level%3DUNGR%26type%3DAll%26name%3DFaculty%2520of%2520Applied%2520Science%2520International%2520Student%2520Scholarship%26id%3D)]
+- Faculty of Applied Science International Student Scholarship [[link](https://students.ubc.ca/enrolment/finances/award-search/vancouver/faculty-applied-science/general/5379?destination=enrolment/finances/award-search/result%3Fcampus%3DVancouver%26faculty%3DAPSC%26dept%3DAll%26level%3DUNGR%26type%3DAll%26name%3DFaculty%2520of%2520Applied%2520Science%2520International%2520Student%2520Scholarship%26id%3D)]
 - TREK Excellence Scholarship for Continuing Students [[link](https://students.ubc.ca/enrolment/finances/award-search/vancouver/non-academic-units/awards-financial-services/1415)]
